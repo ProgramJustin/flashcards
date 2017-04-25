@@ -36,7 +36,7 @@ $("#methods-show, #methods-hide").click (function() {
     });
   $("").click (function() {
         $("").toggle();
-        $("#methods-hide").toggle();
+        $("").toggle();
     });
 });
 
