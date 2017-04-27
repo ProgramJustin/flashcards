@@ -7,7 +7,7 @@
       -o-animation: fadein 2s; /* Opera < 12.1 */
          animation: fadein 2s;
 }
-  }
+
 
 
   @keyframes fadein {
@@ -40,9 +40,6 @@
   }
 
 
-p {
-  font-size: 26px;
-}
 body {
   background-image: url("http://www.shopgratitudesgifts.com/wp-content/uploads/2016/08/General-Notebook-Paper-Background-For-Word-Template-Examples.jpg");
 }
@@ -58,121 +55,20 @@ body {
 }
 
 .col-md-4 {
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  background-image: url("file:///home/justin/Desktop/flashcards/img/flash1.jpg");
   margin: 15px;
   border: 2px solid red;
   height: 175px;
   width: 350px;
+}
+
+p {
+  font-size: 26px;
 }
 
 /*WORKING CSS*/
 
-#javascript-hide {
+.hiding {
   display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
+
 }
-
-#operators-hide {
-  display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
-}
-
-#variables-hide {
-  display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
-}
-
-#vnc-hide {
-  display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
-}
-
-#functions-hide {
-  display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
-}
-
-#methods-hide {
-  display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
-}
-
-/*EXPERIMENTAL CSS*/
-
-/*#card1-hide {
-  display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
-}
-
-#card2-hide {
-  display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
-}
-
-#card3-hide {
-  display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
-}
-
-#card4-hide {
-  display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
-}
-
-#card5-hide {
-  display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
-}
-
-#card6-hide {
-  display: none;
-  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
-  margin: 15px;
-  border: 2px solid red;
-  height: 175px;
-  width: 350px;
-}*/
